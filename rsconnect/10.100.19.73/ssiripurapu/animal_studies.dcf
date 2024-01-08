@@ -1,0 +1,14 @@
+name: animal_studies
+title: Animal_Studies
+username: ssiripurapu
+account: ssiripurapu
+server: 10.100.19.73
+hostUrl: http://10.100.19.73:3939/__api__
+appId: 8
+bundleId: 16
+url: http://10.100.19.73:3939/content/3f3a3860-7177-4dc5-9614-1ef697d7a774/
+when: 1641934723.10789
+lastSyncTime: 1641934723.1079
+asMultiple: FALSE
+asStatic: FALSE
+ignoredFiles: Doc Uploaded|officer-test.docx|test_2.nb.html|test_2.Rmd|test.doc|test.nb.html|test.pdf|test.Rmd

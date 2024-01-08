@@ -1,0 +1,14 @@
+name: animal_studies
+title: Animal_Studies
+username: ssiripurapu
+account: ssiripurapu
+server: rshiny.rc.affiniatx.com
+hostUrl: https://rshiny.rc.affiniatx.com/__api__
+appId: 8
+bundleId: 690
+url: https://rshiny.rc.affiniatx.com/Animal_Studies/
+when: 1702499297.12264
+lastSyncTime: 1702499297.12266
+asMultiple: FALSE
+asStatic: FALSE
+ignoredFiles: Doc Uploaded|officer-test.docx|test_2.nb.html|test_2.Rmd|test.doc|test.nb.html|test.pdf|test.Rmd|www/temp_file.csv
